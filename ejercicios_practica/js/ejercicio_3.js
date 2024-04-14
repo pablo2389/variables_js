@@ -12,10 +12,9 @@
 //    proponga una alternativa para que se imprima 1 en consola, 
 //    manteniendo las operaciones de división.
 
-/* ELIMINE ESTE COMENTARIO
-let numerador = 25;
-let denominador = 25 - numerador;
-let resultado = numerador/denominador;
+let denominadorA = 25;
+const cocienteB = 1 / denominadorA;
 
-console.log(resultado/resultado);
-*/
+console.log("El resultado del programa es: " + cocienteB);
+
+
